@@ -20,3 +20,7 @@ print(type(variavel))
 ==  Igual
 <>  Diferente
 """ 
+
+preco = 20.50
+
+print("Preço: R${:.2f}".format(preco))
